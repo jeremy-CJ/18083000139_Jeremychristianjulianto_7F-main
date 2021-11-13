@@ -2,7 +2,7 @@ Biodata
 
 UTS INT PUB 2
 
-1083000136 / Adam Virgiansa / 7F
+1083000139 / Jeremy Christian Julianto / 7F
 
 - Database pada folder sql_database
 - Ekstrak / langsung import di php my admin.
@@ -16,10 +16,7 @@ PW : admin
 -----------
 Login User : 
 
-USERNAME : adam@gmail.com
-PW : adam
-
-atau bisa buat user baru, di register
+bisa buat user baru, di register
 
 ----------
-NOTE : Maaf pak saya gak terlalu bisa css / penempatan, sudah berusaha semaksimal mungkin pak :(
+NOTE : Maaf pak jika tidak bagus :)
